@@ -1,5 +1,5 @@
 # Greetings, I'm Alex Serafini :bust_in_silhouette:
-#### :man_student: I'm a Systems Engineering student at [PUCMM](https://www.pucmm.edu.do/) 
+#### :man_student: I'm currently studying Systems Engineering student at [PUCMM](https://www.pucmm.edu.do/) 
 ## Contact Me
 ![Discord](https://img.shields.io/badge/BigBoss%236382-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Gmail](https://img.shields.io/badge/alexserafini2001-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/xserafini-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ## Tools
