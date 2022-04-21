@@ -4,9 +4,9 @@
 - :man_student: I'm currently studying Systems Engineering student at [PUCMM](https://www.pucmm.edu.do/) 
 - :globe_with_meridians: Originally from Italy :it:
 - :books: I usually play the piano :musical_keyboard: and video games :joystick:
-- Ever since 2022, I've been taking my health seriously (We're all gonna make it :muscle:)
+- :muscle: Ever since 2022, I've been taking my health seriously (We're all gonna make it!)
 
-## Socials and Profiles :japanese_goblin:
+## Profile and Socials :japanese_goblin:
 ![Discord](https://img.shields.io/badge/BigBoss%236382-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Gmail](https://img.shields.io/badge/alexserafini2001-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/xserafini-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ## Tools I've Learned and Used :wrench:
 ### :desktop_computer: Languages
