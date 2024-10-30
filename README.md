@@ -1,7 +1,8 @@
 # Greetings, I'm Alex Serafini :bust_in_silhouette:
 
 ## Bio
-- :man_student: I'm currently studying Systems Engineering at [PUCMM](https://www.pucmm.edu.do/) 
+- :man_student: Graduated in Systems Engineering at [PUCMM](https://www.pucmm.edu.do/)
+- ⚙️ Backend Developer and aspiring Data Scientist 👨‍🔬
 - :globe_with_meridians: Originally from Italy :it:
 - :books: I usually play the piano :musical_keyboard: and video games :joystick:
 - :muscle: Ever since 2022, I've been taking my health seriously (We're all gonna make it!)
